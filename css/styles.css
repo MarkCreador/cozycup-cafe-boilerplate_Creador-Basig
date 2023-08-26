@@ -6,13 +6,13 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f2e0;
-    color: #4c3c32;
+    background-color: #DFA47A;
+    color: #d1ccc9;
 }
 
 header {
     background-color: #fff;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(148, 124, 124, 0.1);
     padding: 20px;
 }
 
@@ -34,13 +34,13 @@ nav ul {
 
 nav a {
     text-decoration: none;
-    color: #4c3c32;
+    color: #080807;
     font-weight: bold;
     transition: color 0.3s;
 }
 
 nav a:hover {
-    color: #7e685b;
+    color: #c0bbb9;
 }
 
 .hero {
@@ -76,23 +76,39 @@ nav a:hover {
 
 .menu {
     padding: 100px 0;
-    text-align: center;
+    text-align: CENTER;
 }
+.menu img {
 
+    height: 75%;
+    width: 50%;
+}
 .menu h2 {
-    font-size: 30px;
+    font-size: 50px;
     margin-bottom: 20px;
+    color: #fcf8f8;
+ 
+ 
+}
+.menu h4 {
+
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #181616;
+ 
+ 
 }
 
 .about {
     padding: 100px 0;
     text-align: center;
-    background-color: #ede4d6;
+    background-color: #1f1c17;
 }
 
 .about h2 {
     font-size: 30px;
     margin-bottom: 20px;
+    color :#fff; 
 }
 
 .about p {
