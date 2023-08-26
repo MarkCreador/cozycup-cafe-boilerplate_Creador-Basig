@@ -131,19 +131,12 @@ nav a:hover {
 
 .contact p {
     font-size: 18px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
-.contact img {
-    height: 70%;
-    width: 40%;
-}
+
 footer {
     background-color: #4c3c32;
     color: white;
     text-align: center;
-  
-}
-footer img {
-    height: 5%;
-    width: 5%;
+    padding: 20px 0;
 }
